@@ -1,4 +1,5 @@
 # Sales and Customer Behaviour
+![image](https://github.com/user-attachments/assets/19e30abb-e0b7-4754-b3fb-7bced89a6c54)
 
 🛒 An operational analytics project focused on customer basket size, purchase frequency, and return behaviours. Delivered via BigQuery SQL and designed to power data-informed commercial and customer retention decisions.
 
